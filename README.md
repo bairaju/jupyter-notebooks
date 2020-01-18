@@ -1,1 +1,1 @@
-# jupyter-notebooks
+# image classifier
